@@ -6,4 +6,9 @@
 
 
 ### IBM Cognos Analytics Dashboards
+![](Cognos_1.png)
+
+![](Cognos_2.png)
+
+![](Cognos_3.png)
 
