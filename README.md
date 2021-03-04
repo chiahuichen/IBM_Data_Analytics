@@ -1,6 +1,5 @@
 # IBM_Data_Analytics
 ## "A picture is worth a thousand words." 
-<br> </br>
 ### A Simple Excel Dashboard
 ![](excel_dashboard.png)
 
